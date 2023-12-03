@@ -15,7 +15,7 @@
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "fahretttin.gedik@gmail.com",
+  "author": "",
   "license": "ISC",
   "description": "A project using Express and React concurrently"
 }
